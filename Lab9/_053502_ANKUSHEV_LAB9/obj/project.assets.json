@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Serializer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Serializer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Serializer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../_053502_ANKUSHEV_LAB9.Domain/Domain.csproj",
+      "msbuildProject": "../_053502_ANKUSHEV_LAB9.Domain/Domain.csproj"
+    },
+    "Serializer/1.0.0": {
+      "type": "project",
+      "path": "../Serializer/Serializer.csproj",
+      "msbuildProject": "../Serializer/Serializer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Domain >= 1.0.0",
+      "Serializer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Programma\\sharp\\3rd Term\\NewLab9\\_053502_ANKUSHEV_LAB9\\_053502_ANKUSHEV_LAB9.csproj",
+      "projectName": "_053502_ANKUSHEV_LAB9",
+      "projectPath": "D:\\Programma\\sharp\\3rd Term\\NewLab9\\_053502_ANKUSHEV_LAB9\\_053502_ANKUSHEV_LAB9.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Programma\\sharp\\3rd Term\\NewLab9\\_053502_ANKUSHEV_LAB9\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\Programma\\sharp\\3rd Term\\NewLab9\\Serializer\\Serializer.csproj": {
+              "projectPath": "D:\\Programma\\sharp\\3rd Term\\NewLab9\\Serializer\\Serializer.csproj"
+            },
+            "D:\\Programma\\sharp\\3rd Term\\NewLab9\\_053502_ANKUSHEV_LAB9.Domain\\Domain.csproj": {
+              "projectPath": "D:\\Programma\\sharp\\3rd Term\\NewLab9\\_053502_ANKUSHEV_LAB9.Domain\\Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

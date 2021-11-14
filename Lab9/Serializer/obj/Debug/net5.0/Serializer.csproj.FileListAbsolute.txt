@@ -1,0 +1,14 @@
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\Serializer.deps.json
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\Serializer.dll
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\Serializer.pdb
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\Domain.dll
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\bin\Debug\net5.0\Domain.pdb
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.csproj.AssemblyReference.cache
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.dll
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+D:\Programma\sharp\3rd Term\NewLab9\Serializer\obj\Debug\net5.0\Serializer.pdb
